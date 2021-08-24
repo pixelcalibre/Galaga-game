@@ -1,5 +1,5 @@
 # Galaga-game
-Galaga is a Japanese shoot-‘em-up arcade game developed and published by Namco Japan and Midway Games. It was an instant hit in North America and Japan, and is very popular to the extent of being titled a “classic” by many publications. This is my class 12 CS project.
+Galaga is a Japanese shoot-‘em-up arcade game developed and published by Namco Japan and Midway Games. It was an instant hit in North America and Japan, and is very popular to the extent of being titled a “classic” by many publications. This is my (updated)class 12 CS project.
 
 # Loading Screen
 ![galaga1](https://user-images.githubusercontent.com/43674856/130630044-221bfacb-aedb-4d61-aa7c-7d949d769f10.png)
